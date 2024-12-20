@@ -1,3 +1,3 @@
+## Official source code for the Fatima Convent School website
 
-
-# The project development has been halted.
+> **Note**: This repository has been archived and is no longer actively maintained.
